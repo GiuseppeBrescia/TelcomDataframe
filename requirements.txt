@@ -10,7 +10,7 @@ jsonschema==3.0.0
 jupyter-core==4.4.0
 MarkupSafe==1.1.1
 nbformat==4.4.0
-numpy==1.16.1
+numpy==1.22.0
 OWSLib==0.17.1
 plotly==3.6.1
 psycopg2==2.7.7
